@@ -27,19 +27,6 @@ Programação Orientada a Objetos
 
 Captura de Tela
 
-A imagem abaixo mostra parte da interface do sistema:
-
-![Interface do sistema](sistema_estoque_produtos_foto.png)
-
-Demonstração em Vídeo
-
-Vídeo mostrando o funcionamento do projeto:
-
-![Demonstração em vídeo](demo_video.mp4)
-
-
-O GitHub não executa vídeos diretamente no README, mas exibirá um player quando o arquivo estiver no repositório.
-
 Como Executar
 
 Instale as dependências:
